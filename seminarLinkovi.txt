@@ -1,0 +1,7 @@
+stranice za cocktali machine
+
+https://create.arduino.cc/projecthub/Seafox_C/cheap-portable-cocktail-maker-barbot-with-app-4f9079
+
+https://www.youtube.com/watch?v=cvOpvPKHJvc
+
+https://github.com/sidlauskaslukas/barbot
